@@ -7,7 +7,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nate@natedryer.com)
 [![Personal Site](https://img.shields.io/badge/natedryer.com-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.natedryer.com)
 
-## Hi, I'm Nate👋
+## Hi, I'm Nathan👋
   
 I'm an ex-Lyft **Product Manager** turned **Ai/ML Freelance Consultant** with 10+ years experience shipping products across many industries (Finance, Medical, CX Mgmt, Transportation/SaaS).
 
@@ -16,7 +16,7 @@ I'm an ex-Lyft **Product Manager** turned **Ai/ML Freelance Consultant** with 10
 ### Links 
 
 - **[LinkedIn Profile](wwww.linkedin.com/in/natedryer)**
-- **[Portfolio](https://www.natedryer.com)**
+- **[Portfolio](https://www.nathandryer.com)**
 
 </details>
 
