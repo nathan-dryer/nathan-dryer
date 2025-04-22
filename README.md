@@ -4,8 +4,8 @@
 </div>
     
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natedryer)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nate@natedryer.com)
-[![Personal Site](https://img.shields.io/badge/natedryer.com-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.natedryer.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email@nathandryer.com)
+[![Personal Site](https://img.shields.io/badge/nathandryer.com-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.nathandryer.com)
 
 ## Hi, I'm Nathan👋
   
