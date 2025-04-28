@@ -33,7 +33,7 @@ I'm an ex-Lyft **Product Manager** turned **AI/ML Freelance Consultant** with 10
 
 - **1,900% Mobile User Growth:** Shipped bank's first native mobile banking apps & scaled userbase from 20K to 400K (20x increase) in one year.
 - **$1M+ Savings via UX Overhaul:** Led overhaul of mobile patient portal login & onboarding experience.
-- **40pt NPS Lift (-15 to +25):** Founded Collaboration Tools product team @ Lyft. 
+- **40PT NPS Lift (-15 to +25):** Founded Collaboration Tools product team @ Lyft. 
 
 
 <div align="left">
