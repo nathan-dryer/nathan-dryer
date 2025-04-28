@@ -15,8 +15,8 @@ I'm an ex-Lyft **Product Manager** & **AI/ML Freelance Consultant** with 10+ yea
 
 ### Links 
 
-- **[LinkedIn Profile](wwww.linkedin.com/in/natedryer)**
-- **[Portfolio](https://www.nathandryer.com)**
+- **[My LinkedIn](wwww.linkedin.com/in/natedryer)**
+- **[My Site](https://www.nathandryer.com)**
 
 </details>
 
