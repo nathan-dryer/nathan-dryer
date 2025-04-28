@@ -1,7 +1,7 @@
 <!-- HEADER -->
-<!--
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nathan-dryer/nathan-dryer/main/GIF_3.gif" alt="Nate Dryer – AI Innovator" style="max-width:100%;height:auto;" />
+  <img src="https://raw.githubusercontent.com/nathan-dryer/nathan-dryer/main/GIF_4" alt="Nate Dryer – AI Innovator" style="max-width:100%;height:auto;" />
 </div>
 -->
 
