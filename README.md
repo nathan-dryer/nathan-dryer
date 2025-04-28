@@ -9,7 +9,7 @@
 
 ## Hi, I'm Nathan👋
   
-I'm an ex-Lyft **Product Manager** turned **AI/ML Freelance Consultant** with 10+ years experience shipping products across many industries (Finance, Medical, CX Mgmt, Transportation/SaaS).
+I'm an ex-Lyft **Product Manager** & **AI/ML Freelance Consultant** with 10+ years experience shipping products across many industries (Finance, Medical, CX Management, Transportation).
 
 </details>
 
@@ -32,8 +32,8 @@ I'm an ex-Lyft **Product Manager** turned **AI/ML Freelance Consultant** with 10
 ### Results
 
 - **1,900%** Mobile User Growth: Shipped bank's first native mobile banking apps & scaled userbase from **20K** to **400K** (20x increase) in one year.
-- **$1M+ Savings** via UX Overhaul: Led overhaul of mobile patient portal login & onboarding experience.
-- **40PT** NPS Lift (-15 to +25): Founded internal Collaboration Tools product team @ Lyft. 
+- **$1M+** Savings: Led overhaul of mobile patient portal login & onboarding experience.
+- **40PT NPS** Lift in 1YR (ESAT-Tools): Founded team to build and enhance internal collaboration tools across Lyft.
 
 
 <div align="left">
