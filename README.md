@@ -37,5 +37,5 @@ I'm an ex-Lyft **Product Manager** turned **AI/ML Freelance Consultant** with 10
 
 
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=nate-dryer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
+
 </div>
