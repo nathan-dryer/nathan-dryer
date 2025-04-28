@@ -3,16 +3,8 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/nathan-dryer/nathan-dryer/main/GIF_4" alt="Nate Dryer – AI Innovator" style="max-width:100%;height:auto;" />
 </div>
--->
 
 # Hi, I'm Nathan 👋
-
-## 📑 Table of Contents
-- [About Me](#about-me)
-- [Connect with me](#connect-with-me)
-- [Key Results](#key-results)
-- [Skills](#skills)
-- [GitHub Stats](#github-stats)
 
 ### About Me
 
