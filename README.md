@@ -13,14 +13,14 @@ I'm an ex-Lyft **Product Manager** & **AI/ML Freelance Consultant** with 10+ yea
 
 </details>
 
-### Links 
+### My Links 
 
-- **[My LinkedIn](wwww.linkedin.com/in/natedryer)**
-- **[My Site](https://www.nathandryer.com)**
+- **[LinkedIn](wwww.linkedin.com/in/natedryer)**
+- **[Personal](https://www.nathandryer.com)**
 
 </details>
 
-### Skills
+### My Skills
 
 |||
 |---|---|
@@ -29,7 +29,7 @@ I'm an ex-Lyft **Product Manager** & **AI/ML Freelance Consultant** with 10+ yea
 | **Technical** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) 
 | **Design** | ![Miro](https://img.shields.io/badge/Miro-FFD02F?style=flat-square&logo=miro&logoColor=black) ![Adobe Creative Suite](https://img.shields.io/badge/Adobe_Suite-FF0000?style=flat-square&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)![InVision](https://img.shields.io/badge/InVision-FF3366?style=flat-square&logo=invision&logoColor=white) |
 
-### Results
+### My Results
 
 - **1,900%** Mobile User Growth: Shipped bank's first native mobile banking apps & scaled userbase from **20K** to **400K** (20x increase) in one year.
 - **$1M+** Savings: Led overhaul of mobile patient portal login & onboarding experience.
